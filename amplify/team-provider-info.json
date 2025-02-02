@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactcognitoauth-dev-b3966-authRole",
+      "UnauthRoleArn": "arn:aws:iam::588738609043:role/amplify-reactcognitoauth-dev-b3966-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::588738609043:role/amplify-reactcognitoauth-dev-b3966-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-reactcognitoauth-dev-b3966-deployment",
+      "UnauthRoleName": "amplify-reactcognitoauth-dev-b3966-unauthRole",
+      "StackName": "amplify-reactcognitoauth-dev-b3966",
+      "StackId": "arn:aws:cloudformation:ap-south-1:588738609043:stack/amplify-reactcognitoauth-dev-b3966/749d1240-e132-11ef-af1d-0a52da92f589",
+      "AmplifyAppId": "d1q49oh6ybhas2"
+    },
+    "categories": {
+      "auth": {
+        "reactcognitoauth3b75d552": {}
+      }
+    }
+  }
+}
